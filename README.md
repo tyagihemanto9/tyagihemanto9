@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"></p>
 <h1 align="center">Hi 👋, I'm Hemant Tyagi</h1>
 
 # 💫 About Me:
@@ -17,9 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tyagihemanto9&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tyagihemanto9&icon=4&color=3)](https://visitcount.itsvg.in)
